@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+c:\users\luis\desktop\segundo ciclo 2019\pa\lab07_marianagonzalez_1097019\lab07_marianagonzalez_1097019\myform.h(272): warning C4715: 'LAB07MARIANAGONZALEZ1097019::MyForm::Hash': not all control paths return a value
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  LAB07_MARIANAGONZALEZ_1097019.vcxproj -> C:\Users\luis\Desktop\SEGUNDO CICLO 2019\PA\LAB07_MARIANAGONZALEZ_1097019\Debug\LAB07_MARIANAGONZALEZ_1097019.exe
